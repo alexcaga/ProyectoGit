@@ -1,5 +1,5 @@
-Español: Adiós
-Inglés: Goodbye
-Francés: Au revoir
-Italiano: Addio
-Alemán: Auf Wiedersehen
+Español: hola
+Inglés: hello
+Francés: bonjour
+Italiano: chao
+Alemán: halo
