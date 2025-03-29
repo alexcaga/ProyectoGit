@@ -1,5 +1,0 @@
-Español: hola
-Inglés: hello
-Francés: bonjour
-Italiano: chao
-Alemán: halo
